@@ -1,1 +1,1 @@
-# RSC_Test
+run with 'npm start'
